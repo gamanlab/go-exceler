@@ -6,7 +6,7 @@ Small tool to generate excel file based on given template (excel) and data to be
 
 Install the package with the following command:
 
-> go get github.com/annlumia/go-exceler
+> go get github.com/gamanlab/go-exceler
 
 ## Using package
 
@@ -27,7 +27,7 @@ import (
   "time"
 
   // 1. Import package
-	exceler "github.com/annlumia/go-exceler"
+	exceler "github.com/gamanlab/go-exceler"
 )
 
 func main() {

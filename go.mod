@@ -1,4 +1,4 @@
-module github.com/annlumia/go-exceler
+module github.com/gamanlab/go-exceler
 
 go 1.14
 

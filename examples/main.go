@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	exceler "github.com/annlumia/go-exceler"
+	exceler "github.com/gamanlab/go-exceler"
 )
 
 func main() {
